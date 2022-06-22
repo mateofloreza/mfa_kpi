@@ -7,6 +7,7 @@ require (
 	github.com/google/uuid v1.2.0
 	github.com/onosproject/helmit v0.6.19
 	github.com/onosproject/onos-api/go v0.9.13
+	github.com/onosproject/onos-e2-sm/servicemodels/e2sm_kpm v0.7.26
 	github.com/onosproject/onos-e2-sm/servicemodels/e2sm_kpm_v2_go v0.8.6
 	github.com/onosproject/onos-lib-go v0.8.13
 	github.com/onosproject/onos-ric-sdk-go v0.8.9
